@@ -1,0 +1,1 @@
+# Removing-All-HTML-Attributes-from-Any-Specified-HTML-Element-Using-jQuery
